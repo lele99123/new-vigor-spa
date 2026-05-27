@@ -83,7 +83,7 @@ function Navbar() {
           <img
             src="/images/logo.png"
             alt="New Vigor Foot Spa"
-            className="h-10 w-auto"
+            className="h-20 w-auto"
           />
           <span className="font-serif text-xl tracking-wide text-white">
             New Vigor Foot Spa
