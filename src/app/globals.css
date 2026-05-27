@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-accent: #C0693B;
+  --color-accent-hover: #A0522D;
+  --color-accent-light: #D4895F;
+  --color-bg-cream: #FDF6EE;
+  --color-bg-warm: #FAF0E6;
+  --color-brown-deep: #4A1C1C;
+  --color-brown-warm: #8B4513;
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", ui-serif, Georgia, serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
