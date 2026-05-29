@@ -250,6 +250,18 @@ function Contact() {
             </a>
           ))}
         </div>
+        <div className="mx-auto max-w-[600px] overflow-hidden rounded-xl shadow-lg">
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3017.76892869825!2d-73.19827942310026!3d40.854996771372434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e83a17a066dead%3A0xd5e22159224b7c6a!2sNew%20Vigor%20Foot%20Spa!5e0!3m2!1sen!2sus!4v1780090880266!5m2!1sen!2sus"
+            width="100%"
+            height="350"
+            style={{ border: 0 }}
+            allowFullScreen
+            loading="lazy"
+            referrerPolicy="no-referrer-when-downgrade"
+            title="New Vigor Foot Spa location"
+          />
+        </div>
       </div>
     </section>
   );
